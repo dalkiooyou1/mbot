@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "trustjungsan",
+  "private_key_id": "46fc0fe6bdd8d3f261eceb7efabf4db3dc36338a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuP8RyePT8lluV\nixnm3B2F/PjIo3+YjcK2/WsLey9RkgLML+RWR3GbYNxgqwOrmkhbI/d0imnPSCD7\nLDGVnzoB7P0msIlvQMxdvRLiMV/aBdnblj559Ijq+YsjesoRFx39JMYprkyrVWy1\nD86AvA7n0CsaYFPhk+7aTPtZY9pMfI+hQt9TFfgLgscb1dCjWPEgXp9K995u918s\nESoHDZgL7cHJnNIHcggDTnllzMPbCfF2NV+9JwRpFg9bXTVGnf61qOwA7N5IDFCA\nr6ldM8HHjh7rfwbN+277ickM/GvpvaaW+IRGvS6omnYYS3gEJL1UezIvNxIBQM5J\n1IZSeu5pAgMBAAECggEAPPdOsoajoOSysoXy0BVftwult/2MnUGsSP4tv9yf17hw\nhiSTjaR9mVGwiZoMNLRMcKcK45myH7Yq4/a4epM1ZosWn7zQuT5AwuNugfmogc3e\nRbgxr9XhOeWJyyYhIQ2njnSZaOf1J1VCLa+UHvKtfGoXSqk9cAWkYnjg0IvhSzUN\n7PvSY00gDZuohiUH4vgIr1Sra6AT5wzk/f0oyiqKPLOdRyCRkpe0jlnA9huKpO1c\n4Or3ky2AGMJ5jjRYyeaSO5GzdlBgsjHCuuO0xkzLYm693AL6YXgGYaBLn/DX5fpI\nNYaxw4Aiy3sisBnNVpf21eeewcB64aoF0eMSgda86QKBgQDYd2ZdLUvSWSg3X0Wp\nBZ1UsH7qGnd8tUzSO1mo0xvlA36E4Z84CqL0WzlTjNTiA8BLBLCgda1tsNlQKlPQ\ncguq++uMnjbEYFmI/zWZ4XJ6LGLMZbCyk2mgkDuGDhp3eSvlF+5T7T1iclvEx0m2\nUOMsx9kwg07FPxv68cniHTtDfwKBgQDOEo2J0PIOWtmtkfE9ed+nVy91PIUe56Hi\n8OqEcrfL04+/uPfEEH0YRywK5e+LjqEubEAre6rxjOm5iObXD9blu2/94ByftyDI\neyFrNc24a4SiaCTZTbkhCiryI+vCTWZB2DBP5edsKFW2NwhwcPKBMEaVvbCPXRiH\nNCB5gU8iFwKBgDTiPrzm0w5Jv9x/Rxp7B6voDqmM28I43NLDsyzenoL9rowyPt7H\nInaGTuQNlPi+p9zsAWbCOSOCQCUooh9brWQRdcN9561kSJuClgrJHFmivGRpN5j5\nEKYsdo5Spb6oeMPYa95PKF8Dx020zlpfOpD3JiWG/tiLiX9uUL8QGylrAoGBAK7v\nDPwbRgBtmzA/Hf1EAlp6Jq1tLMypccHHJi49fE0pUXQ9vwbPwIHlmTu/KfTcpXNV\nLbw8BUd8icSYtO2IYrMuxMlNgL8MpGXMMPhj+jk9/KAprG5UDn4/tWlMmQyey9nF\nfm21CxnDu88tNJrPJu4IX0MqfkGVlAbid1buMJENAoGBALKEXcljPvr6dUATgxwZ\n/JxY7VwW2nqXb8ZsCAgrXi4SuhsfF1fPaSm3sHyi/HT4CtQX9xAPwf5VvRsMINTe\n/4bERcCOPiMZs3r+Jba45+sTasEUsG4IASw58UGsUtybO5p+dZjyDXAwNbDnOPEe\nESxpKcEnwVuSvQZqkGmZ5WWL\n-----END PRIVATE KEY-----\n",
+  "client_email": "trustjungsan@trustjungsan.iam.gserviceaccount.com",
+  "client_id": "100794623865176288313",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trustjungsan%40trustjungsan.iam.gserviceaccount.com"
+}
